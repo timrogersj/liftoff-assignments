@@ -20,3 +20,5 @@ After forking the repository, you will need to *enable GitHub Issues* for your n
 ## Submit Your Forked Repo URL to Canvas
 
 Once you have forked your repo and enabled GitHub Issues, submit the URL of your new repo to Canvas to complete Assignment 1.
+
+https://github.com/timrogersj/liftoff-assignments/tree/master/P1-Assignment_Repository_Setup
